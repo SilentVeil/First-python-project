@@ -1,13 +1,13 @@
 # My First Python Project: Caesar Cipher 🔐
 
-**October 2024** - Started learning Python from zero  
+**October 2025** - Started learning Python from zero  
 **This project** - My first complete program ever  
 **Now** - Building cloud security skills
 
 ## 🎯 What This Is
 This Caesar Cipher encryption program is the **first real code I ever wrote** in Python.
 
-I built this while taking my first Python course in October 2024, with no prior programming experience.
+I built this while taking my first Python course in October 2025, with no prior programming experience.
 
 ## 💻 The Actual Code I Wrote
 ```python
